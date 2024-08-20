@@ -77,7 +77,7 @@ a{
 
 .icon{ 
     margin: 15px auto;
-    width: 48%;
+    width: 60%;
   display: flex;
   justify-content: space-between;
 }
@@ -87,7 +87,7 @@ a{
     height: 32px;
     background-color: #9886af;
     border-radius: 50%;
-    padding: 1px;
+    padding: 0.5px;
 }
 
 
@@ -99,5 +99,9 @@ a{
     img{
         max-width: 245px;
         max-height: 245px ;
+    }
+
+    .fa-brands{
+        scale: 1.2;
     }
 }
