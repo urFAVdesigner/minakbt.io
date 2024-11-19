@@ -178,6 +178,8 @@ ul li:nth-child(3).active ~ .indecator::after{
 .bok{
     display: flex;
     width: 90%;
+    height: fitcontent;
+    
     overflow-x: scroll;
    background-color: #473f52;
    border-radius: 25px;
